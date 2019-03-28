@@ -32,9 +32,9 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 [18] "time_body_acc_jerk_std_x" (numeric)   
 [19] "time_body_acc_jerk_std_y" (numeric)    
 [20] "time_body_acc_jerk_std_z" (numeric)   
-[21] "time_body_gyro_mean_x" (numeric)        
-[22] "time_body_gyro_mean_y" (numeric)      
-[23] "time_body_gyro_mean_z" (numeric)        
+[21] "time_body_gyro_mean_x" (numeric)
+[22] "time_body_gyro_mean_y" (numeric)
+[23] "time_body_gyro_mean_z" (numeric)
 [24] "time_body_gyro_std_x" (numeric)       
 [25] "time_body_gyro_std_y" (numeric)        
 [26] "time_body_gyro_std_z" (numeric)       
@@ -68,21 +68,16 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 [54] "freq_body_acc_jerk_std_z" (numeric)   
 [55] "freq_body_gyro_mean_x" (numeric)       
 [56] "freq_body_gyro_mean_y" (numeric)      
-[57] "freq_body_gyro_mean_z" (numeric)       
+[57] "freq_body_gyro_mean_z" (numeric)
 [58] "freq_body_gyro_std_x" (numeric)       
 [59] "freq_body_gyro_std_y" (numeric)        
 [60] "freq_body_gyro_std_z" (numeric)       
 [61] "freq_body_acc_mag_mean" (numeric)      
 [62] "freq_body_acc_mag_std" (numeric)      
 [63] "freq_body_acc_jerk_mag_mean" (numeric)
-
 [64] "freq_body_acc_jerk_mag_std" (numeric)
-
 [65] "freq_body_gyro_mag_mean" (numeric)
-
 [66] "freq_body_gyro_mag_std" (numeric)
-    
 [67] "freq_body_gyro_jerk_mag_mean" (numeric)
-
 [68] "freq_body_gyro_jerk_mag_std" (numeric)
 
