@@ -13,10 +13,10 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 - The columns of this dataset correspond to the following variables:
 
  [1] "subject" (integer - {1:30})                     
- [2] "activity" (character - {"standing", "sitting", "laying", "walking", "walking downstairs", "walking upstairs"})                   
- [3] "time_body_acc_mean_x" (numeric)        
- [4] "time_body_acc_mean_y" (numeric)       
- [5] "time_body_acc_mean_z" (numeric)       
+ [2] "activity" (character - {"standing", "sitting", "laying", "walking", "walking downstairs", "walking upstairs"})
+ [3] "time_body_acc_mean_x" (numeric)
+ [4] "time_body_acc_mean_y" (numeric)
+ [5] "time_body_acc_mean_z" (numeric)
  [6] "time_body_acc_std_x" (numeric)         
  [7] "time_body_acc_std_y" (numeric)        
  [8] "time_body_acc_std_z" (numeric)        
@@ -37,7 +37,7 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 [23] "time_body_gyro_mean_z" (numeric)
 [24] "time_body_gyro_std_x" (numeric)       
 [25] "time_body_gyro_std_y" (numeric)        
-[26] "time_body_gyro_std_z" (numeric)       
+[26] "time_body_gyro_std_z" (numeric)
 [27] "time_body_gyro_jerk_mean_x" (numeric)
 [28] "time_body_gyro_jerk_mean_y" (numeric)
 [29] "time_body_gyro_jerk_mean_z" (numeric)  
