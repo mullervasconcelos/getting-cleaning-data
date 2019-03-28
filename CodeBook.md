@@ -36,7 +36,7 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 	4. Axis (x, y, z)
 	5. Magnitude (mag)
 
-  - The columns of the dataset HAR.csv and HAR2.csv correspond to the following variables:
+- The columns of the dataset HAR.csv and HAR2.csv correspond to the following variables:
 
  [1] "subject" (integer - {1:30}) 
 
