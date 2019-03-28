@@ -74,10 +74,15 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 [60] "freq_body_gyro_std_z" (numeric)       
 [61] "freq_body_acc_mag_mean" (numeric)      
 [62] "freq_body_acc_mag_std" (numeric)      
-[63] "freq_body_acc_jerk_mag_mean" (numeric)   
-[64] "freq_body_acc_jerk_mag_std" (numeric)  
-[65] "freq_body_gyro_mag_mean" (numeric)      
-[66] "freq_body_gyro_mag_std" (numeric)     
+[63] "freq_body_acc_jerk_mag_mean" (numeric)
+
+[64] "freq_body_acc_jerk_mag_std" (numeric)
+
+[65] "freq_body_gyro_mag_mean" (numeric)
+
+[66] "freq_body_gyro_mag_std" (numeric)
+    
 [67] "freq_body_gyro_jerk_mag_mean" (numeric)
+
 [68] "freq_body_gyro_jerk_mag_std" (numeric)
 
