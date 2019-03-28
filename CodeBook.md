@@ -24,7 +24,14 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 - The variable names indicate:
 
 1. The domain: time (time) or frequency (freq)
-2. The sensor: body accelerometer (body_acc), body gyroscope (body_gyro), body gyroscope jerk (body_gyro_jerk), body accelerometer jerk (body_acc_jerk), gravity accelerometer (gravity_acc)
+2. The sensor: 
+
+--- body accelerometer (body_acc)
+--- body gyroscope (body_gyro)
+--- body gyroscope jerk (body_gyro_jerk)
+--- body accelerometer jerk (body_acc_jerk)
+--- gravity accelerometer (gravity_acc)
+
 3. Statistics: mean (mean), standard deviation (std)
 4. Axis (x, y, z)
 5. Magnitude (mag)
