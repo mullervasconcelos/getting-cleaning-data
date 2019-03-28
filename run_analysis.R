@@ -84,4 +84,5 @@ dataclean2 <- tbl_df(dataclean) %>%
 
 dataclean2 <- as.data.frame(dataclean2)
 
-head(dataclean2)
+write.csv(dataclean, file = "HAR.csv")
+write.csv(dataclean2, file = "HAR2.csv")
