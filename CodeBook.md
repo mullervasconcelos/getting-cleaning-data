@@ -6,13 +6,13 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 
 
 
-## Dataset HAR.csv
+## Dataset HAR.txt
 
 - This dataset contains 10299 observations of 68 variables.
 
 - There are no missing values (NA) in this dataset.
 
-## Dataset HAR2.csv
+## Dataset HAR2.txt
 
 - This dataset contains 180 observations of 68 variables.
 
@@ -36,7 +36,7 @@ There are two datasets in this project: HAR.csv and HAR2.csv
 	4. Axis (x, y, z)
 	5. Magnitude (mag)
 
-- The columns of the dataset HAR.csv and HAR2.csv correspond to the following variables:
+- The columns of the dataset HAR.txt and HAR2.txt correspond to the following variables:
 
  [1] "subject" (integer - {1:30}) 
 
