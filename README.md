@@ -8,4 +8,3 @@
 
 	3. run_analysis.R - A file that downloads the original data set from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, merges the "training" with the "test" data sets and extract the variables corresponding to the mean and standard deviation, rename the variables using descriptive labels and creates two files: HAR.csv and HAR2.csv (HAR2.csv is a summary of HAR.cvs grouped by subject and activity).
 
-
