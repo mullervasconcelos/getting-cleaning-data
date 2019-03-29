@@ -107,5 +107,5 @@ dataclean2 <- as.data.frame(dataclean2)
 
 # Step 6: Saving the tidy data sets in new csv files
 
-write.csv(dataclean, file = "HAR.csv",row.names = FALSE)
-write.csv(dataclean2, file = "HAR2.csv",row.names = FALSE)
+write.table(dataclean, file = "HAR.txt",row.names = FALSE)
+write.table(dataclean2, file = "HAR2.txt",row.names = FALSE)
